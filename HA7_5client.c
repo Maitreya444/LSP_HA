@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "sharedfile.h"
+#include "HA7_5sharedfile.h"
 
 int main()
 {
